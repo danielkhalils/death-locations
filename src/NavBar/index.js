@@ -23,8 +23,7 @@ function NavBar(){
                         <ul className="nav-list">
                             <li><a href="/">Início</a></li>
                             <li><a href="/">Sobre</a></li>
-                            <li><a href="/">Projetos</a></li>
-                            <li><a href="/">Contatos</a></li>
+                            <li><a href="/">Locais</a></li>
                         </ul>
                     </nav>
                 </header>
