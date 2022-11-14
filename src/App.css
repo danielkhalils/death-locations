@@ -1,3 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url("./components/NavBar/darkp.jpg");
+}
+
 .welcome-page h1.text-center-page {
     font-family: 'Vollkorn', serif;
     display: flex;
@@ -11,16 +20,14 @@
     flex-wrap: wrap;
     flex-direction: column;
     align-items: center;
-    color: var(--dk-gray);
-    background-color: var(--lt-gray);
 }
 
 .welcome-page h1 {
     font-size: 3em;
-    font-family: Vollkorn, sans-serif;
-    font-weight: lighter;
-    margin: 90px;
-    margin-bottom: 15px;
+    font-family: 'GFS Didot', sans-serif;
+    margin: 0px;
+    margin-bottom: 0px;
+    color: whitesmoke;
 }
 
 .welcome-page h3 {
@@ -29,12 +36,10 @@
     font-size: 1.75rem;
     font-weight: 500;
     line-height: 2.2;
+    color: whitesmoke;
 }
 
 .text-center-page {
-    padding-top: 2em;
-    margin-left: 2em;
-    margin-right: 2em;
     display: flex;
     flex-wrap: wrap;
     flex-direction: column;
@@ -47,14 +52,14 @@
     font-size: 3em;
     font-family: Vollkorn, sans-serif;
     font-weight: lighter;
-    margin: 90px;
-    margin-bottom: 15px;
+    margin: 0px;
+    margin-bottom: 0;
 }
 
 .text-center-page h3 {
     font-size: 1em;
     font-family: 'GFS Didot', sans-serif;
     font-weight: lighter;
-    margin: 90px;
-    margin-bottom: 15px;
+    margin: 0px;
+    margin-bottom: 0px;
 }

@@ -1,0 +1,11 @@
+.CarouselApp {
+    padding-top: 1em;
+    margin-left: 2em;
+    margin-right: 2em;
+    padding-bottom: 5em;
+    width: 100%;
+    min-width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
