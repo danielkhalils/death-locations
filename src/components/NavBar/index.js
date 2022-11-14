@@ -1,5 +1,4 @@
 import React from "react"
-import Carousel from "../Carousel";
 import "./NavBar.css";
 
 function NavBar(){
@@ -28,9 +27,6 @@ function NavBar(){
                         </ul>
                     </nav>
                 </header>
-                <main>
-                    <Carousel></Carousel>
-                </main>
                 <script src="mobile-navbar.js"></script>
             </body>
         </React.Fragment>

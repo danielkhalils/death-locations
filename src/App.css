@@ -1,0 +1,60 @@
+.welcome-page h1.text-center-page {
+    font-family: 'Vollkorn', serif;
+    display: flex;
+}
+
+.welcome-page {
+    padding-top: 2em;
+    margin-left: 2em;
+    margin-right: 2em;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+    color: var(--dk-gray);
+    background-color: var(--lt-gray);
+}
+
+.welcome-page h1 {
+    font-size: 3em;
+    font-family: Vollkorn, sans-serif;
+    font-weight: lighter;
+    margin: 90px;
+    margin-bottom: 15px;
+}
+
+.welcome-page h3 {
+    font-family: 'GFS Didot', sans-serif;
+    font-weight: lighter;
+    font-size: 1.75rem;
+    font-weight: 500;
+    line-height: 2.2;
+}
+
+.text-center-page {
+    padding-top: 2em;
+    margin-left: 2em;
+    margin-right: 2em;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+    color: var(--dk-gray);
+    background-color: var(--lt-gray);
+}
+
+.text-center-page h1 {
+    font-size: 3em;
+    font-family: Vollkorn, sans-serif;
+    font-weight: lighter;
+    margin: 90px;
+    margin-bottom: 15px;
+}
+
+.text-center-page h3 {
+    font-size: 1em;
+    font-family: 'GFS Didot', sans-serif;
+    font-weight: lighter;
+    margin: 90px;
+    margin-bottom: 15px;
+}
